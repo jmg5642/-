@@ -31,5 +31,4 @@
   - `-9` : 강제 종료 신호를 보냅니다.
   - `-15` : 종료 신호를 보냅니다 (기본값).
   
-![kill 명령어 예시](<img width="717" alt="img" src="https://github.com/whansrl7/-/assets/48951301/b869b79e-7468-4b75-8e93-1f29b8bd5aa2">
-)
+![kill 명령어 예시](<img width="717" alt="img" src="https://github.com/whansrl7/-/assets/48951301/b869b79e-7468-4b75-8e93-1f29b8bd5aa2">)
